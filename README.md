@@ -11,7 +11,7 @@
 ### Running Homework in MATLAB
 * Download Example2.3-1GarrettAddition.xlsx (Example2.3-1GarrettAddition.xlsx)
 * Open MATLAB
-* Open HW_1ElectronicInstrumentation_GarrettTravis.m (HW_1ElectronicInstrumentation_GarrettTravis.m)
+* Open HW_1ElectronicInstrumentation_GarrettTravis.m (HW1_ElectronicInstrumentation_GarrettTravis.m)
 * Run code
 * Answers will appear in Command Window
 

@@ -6,7 +6,7 @@
 
 ## Table of Contents
 * Running Homework in MATLAB
-* Locating Homework 1 Answers in Excel
+* Viewing Homework 1 Answers in Excel
 
 ### Running Homework in MATLAB
 * Download Example2.3-1GarrettAddition.xlsx (Example2.3-1GarrettAddition.xlsx)
@@ -15,7 +15,7 @@
 * Run code
 * Answers will appear in Command Window
 
-### Locating Homework 1 Answers in Excel
+### Viewing Homework 1 Answers in Excel
 * Open Excel
 * Open Homework 1 Electronic Instrumentation excel.xlsx (Homework 1 Electronic Instrumentation excel.xlsx)
 * The original table will be displayed in the Scale Readings sheet

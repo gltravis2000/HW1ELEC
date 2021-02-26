@@ -9,15 +9,15 @@
 * Locating Homework 1 Answers in Excel
 
 ### Running Homework in MATLAB
-* Download Example2.3-1GarrettAddition.xlsx <Example2.3-1GarrettAddition.xlsx>
+* Download Example2.3-1GarrettAddition.xlsx (Example2.3-1GarrettAddition.xlsx)
 * Open MATLAB
-* Open HW_1ElectronicInstrumentation_GarrettTravis.m <HW_1ElectronicInstrumentation_GarrettTravis.m>
+* Open HW_1ElectronicInstrumentation_GarrettTravis.m (HW_1ElectronicInstrumentation_GarrettTravis.m)
 * Run code
 * Answers will appear in Command Window
 
 ### Locating Homework 1 Answers in Excel
 * Open Excel
-* Open Homework 1 Electronic Instrumentation excel.xlsx <Homework 1 Electronic Instrumentation excel.xlsx>
+* Open Homework 1 Electronic Instrumentation excel.xlsx (Homework 1 Electronic Instrumentation excel.xlsx)
 * The original table will be displayed in the Scale Readings sheet
 * The deviation table and the plot of the deviation data will be in the Deviation Table sheet
 * The accuracy limits for the actual and % will be in the Finding Accuracy Limits sheet
